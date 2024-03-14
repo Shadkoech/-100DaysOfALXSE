@@ -23,6 +23,11 @@ Engaging in coding challenges and sharing progress updates can lead to connectio
 - Resources: I'll share helpful resources, tutorials, or articles that contribute to my learning journey.
 
 ## My Take
-I am excited to take up this challenge and push myself to the finish. I'm on a personal test to consistency here to pay homage to the famous quote by Denzel Washington, `"Without commitment, you'll never start. But more importantly, without consistency, you'll never finish."` I have also added to the challenge, 100 pushup and 100 free squats to go with the number..
+I am excited to take up this challenge and push myself to the very end. I'm on a personal test of consistency here and to pay homage to the famous quote by Denzel Washington, 
+
+"Without commitment, you'll never start. But more importantly, without consistency, you'll never finish."
+
+I have also added to the challenge, 100 pushups and 100 free squats to go with the number.
+
 - Whoever is reading this, consider yourself challenged for the same!
 Here we go!!
