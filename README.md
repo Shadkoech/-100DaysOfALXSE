@@ -27,7 +27,7 @@ I am excited to take up this challenge and push myself to the very end. I'm on a
 
 "Without commitment, you'll never start. But more importantly, without consistency, you'll never finish."
 
-I have also added to the challenge, 100 pushups and 100 free squats to go with the number.
+I have also added to the challenge: 100 pushups and 100 free squats everyday to go with the number.
 
-- Whoever is reading this, consider yourself challenged for the same!
+- Whoever might be reading this, consider yourself challenged for the same!
 Here we go!!
