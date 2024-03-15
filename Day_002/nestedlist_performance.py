@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Python Module that uses the Numpy Library to perform
+Python Module that uses nested list to perform
 element-wise addition and multiplication """
 
 import time
