@@ -53,7 +53,7 @@ On running the main file that imports the two modules (nestedlist_performance an
 - NumPy array addition time: 0.002912759780883789
 - NumPy array multiplication time: 0.0029675960540771484
 
-* It is clear that Python Numpy arrays have an edge over python nested lists
+It is clear that Python Numpy arrays have an edge over python nested lists
 
 
 
