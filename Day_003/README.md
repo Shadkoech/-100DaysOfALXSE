@@ -13,3 +13,9 @@ Examples of anagrams:
 - "debit card" and "bad credit"
 
 
+## Task
+
+Filename:
+
+	- anagrams.py
+Holds a function is_anagram() which takes two arguments s1 and s2 and returns True if the two strings are anagrams and False otherwise.
