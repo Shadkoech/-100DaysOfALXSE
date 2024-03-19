@@ -26,7 +26,7 @@ Write code that showcases:
 In the function measure_runtime, we see that we are executing async_comprehension four times in parallel using asyncio.gather. 
 
 - Each call to async_comprehension internally runs async_generator, which involves waiting for 1 second asynchronously per iteration. Since async_comprehension is called four times in parallel using asyncio.gather, the total time taken will be approximately 4 seconds (assuming there's no significant overhead).
-- But the run time is infact 10.07 seconds instead of the anticipated 4 sec.
+- But the run time is infact 10.017751693725586 seconds instead of the anticipated 4 sec.
 
 This is attributed to some overhead operations such as:
 	- stopping coroutines
