@@ -19,6 +19,7 @@ async def async_generator() -> Generator[float, None, None]:
         await asyncio.sleep(1)
         yield random.uniform(0, 10)
 
+
 async def async_comprehension() -> List[float]:
     """
     Coroutine that collects 10 random numbers using an async comprehension
@@ -30,6 +31,7 @@ async def async_comprehension() -> List[float]:
     random_numbers = [num async for num in async_generator()]
 
     return random_numbers
+
 
 async def measure_runtime() -> float:
     """Coroutine measuring total runtime of executing async_comprehension
@@ -49,4 +51,3 @@ async def measure_runtime() -> float:
     total_runtime = end_time - start_time
 
     return total_runtime
-
