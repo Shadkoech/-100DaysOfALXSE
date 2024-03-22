@@ -19,6 +19,9 @@ Some of the fundamental concepts I came across include:
 On the section of the tasks, I reviewed the whole project on introduction to MySQL in order to refresh my memory on the basics before going into advanced.
 Here is the link to my previously handled concepts:
 
+	- https://github.com/Shadkoech/alx-higher_level_programming/tree/master/0x0D-SQL_introduction
+	- https://github.com/Shadkoech/alx-higher_level_programming/tree/master/0x0E-SQL_more_queries
+
 One notable inclusive task I came across include the following:
 
 ### Task 1:
