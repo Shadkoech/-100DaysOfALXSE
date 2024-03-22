@@ -16,13 +16,13 @@ Advanced concepts that I came across
 
 
 
-## Task
+## Tasks
 
 I handled the above concepts through a number of tasks. The cumulative tasks are in this repository in the following link:
 
 	- https://github.com/Shadkoech/alx-backend-storage/tree/master/0x00-MySQL_Advanced
 
-One notable inclusive task I came across include the following:
+
 
 ### Task 1:
 
