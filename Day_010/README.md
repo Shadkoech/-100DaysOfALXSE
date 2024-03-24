@@ -14,4 +14,12 @@ Document Object Model (DOM) is created by the browser when a webpage is loaded. 
 
 
 ## Task
-- creating a web app app and in the process learn how to interact with different element
+- Adding Elements
+- Creating Elements
+- Modifying Element Text
+- Modifying Element HTML
+- Removing Elements
+- Modifying Element Attributes
+- Modifying Data Attributes
+- Modifying Element Classes
+- Modifying Element Style
