@@ -18,3 +18,9 @@ Some of the key concepts that I read and researched on as characteristics and fe
 
 - `Performance`: NoSQL databases are often optimized for high-performance data access and retrieval. They employ efficient data storage and indexing techniques, as well as parallel processing and caching mechanisms, to deliver low-latency responses and handle large concurrent workloads.
 
+
+## Database
+MongoDB Specific
+- Insert/Update/Delete in MongoDB: Understanding how to insert, update, and delete documents in MongoDB collections.
+- Querying in MongoDB: Learning to construct queries to retrieve specific data from MongoDB collections.
+- Using MongoDB with Python: Gaining proficiency in using MongoDB alongside Python for application development.
