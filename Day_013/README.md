@@ -27,3 +27,9 @@ Implement a get_page function (prototype: def get_page(url: str) -> str:). The c
 * Inside get_page track how many times a particular URL was accessed in the key "count:{url}" and cache the result with an expiration time of 10 seconds.
 
 Tip: Use http://slowwly.robertomurray.co.uk to simulate a slow response and test your caching.
+
+This task directly touches on:
+    - Redis Client Initialization
+    - Incrementing Keys
+    - Getting and Setting Keys
+    - Key Naming Conventions
