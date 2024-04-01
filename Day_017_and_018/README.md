@@ -48,10 +48,12 @@ Namespaces are one honking great idea -- let's do more of those!
 This Easter egg is a fun and clever way to showcase the spirit of Python and its community's sense of humor. This Easter egg is actually the "Python Logo". It is also a testament to the influence and popularity of both Python and xkcd within the programming community.
 
 In the python intepreter, typing `import antigravity` will automatically open a web browser window/tab that takes you to a classic xkcd comic titled "Python." 
+```py
 Python 3.8.10 (default, Nov 22 2023, 10:22:35)
 [GCC 9.4.0] on linux
 Type "help", "copyright", "credits" or "license" for more information.
 >>> import antigravity
+```
 
 ![The comic](image-1.png)
 
@@ -59,6 +61,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 ### Hello world
 A simple import of __hello__ prints out the very first famous line that beginers code
 
+```py
 Python 3.8.10 (default, Nov 22 2023, 10:22:35)
 [GCC 9.4.0] on linux
 Type "help", "copyright", "credits" or "license" for more information.
@@ -66,6 +69,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 Hello World!
 >>> import __phello__
 Hello world!
+```
 
 
 ### Life's lesson
@@ -90,6 +94,4 @@ True
 Filename:
 
     - spiderman.py
-
-
-
+This script defines a function spiderman_easter_eggs with a list of Spider-Man-themed phrases. It randomly selects one phrase from the list and prints it. When you run the script, you'll get a different Spider-Man easter egg message each time.
