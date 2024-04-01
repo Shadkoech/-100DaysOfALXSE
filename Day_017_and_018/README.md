@@ -18,6 +18,7 @@ Five of the best Python Easter eggs include:
 Zen of python is a set of guiding principles for writing good python code. It actually encapsulates philosophy and design principles that govern development of python. 
 To access this easter egg simply type `import this` in the python intepreter
 
+```py
 Python 3.8.10 (default, Nov 22 2023, 10:22:35)
 [GCC 9.4.0] on linux
 Type "help", "copyright", "credits" or "license" for more information.
@@ -43,6 +44,8 @@ Although never is often better than *right* now.
 If the implementation is hard to explain, it's a bad idea.
 If the implementation is easy to explain, it may be a good idea.
 Namespaces are one honking great idea -- let's do more of those!
+```
+
 
 ### The Python Comic
 This Easter egg is a fun and clever way to showcase the spirit of Python and its community's sense of humor. This Easter egg is actually the "Python Logo". It is also a testament to the influence and popularity of both Python and xkcd within the programming community.
@@ -75,6 +78,7 @@ Hello world!
 ### Life's lesson
 This is a simple trick of playing around with "this" module. It is about exploring the nature of love through boolean comparisons and in the end conveying a tongue-in-cheek sentiment about the complexities of love and life.
 
+```py
 >>> import this
 ...
 >>> love = this
@@ -88,6 +92,8 @@ False
 True
 >>> love is not True or False; love is love  # FML
 True
+```
+
 
 ### The spideman's script
 
