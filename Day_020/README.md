@@ -31,3 +31,10 @@ Least recently used entries are most likely to be reused
 ### Least Frequently Used (LFU)
 Evicts the least often accessed entry
 Entries with a lot of hits are more likely to be reused
+
+
+## Tasks
+Two files inheriting from a basic cache
+Implements:
+- FIFO
+- LIFO
