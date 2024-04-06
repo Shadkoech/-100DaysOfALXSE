@@ -8,21 +8,6 @@ def len_joke():
     joke = get_joke()
     return len(joke)
 
-# def get_joke():
-#     url = 'https://official-joke-api.appspot.com/random_joke'
-#     response = requests.get(url)
-
-#     # Checking the response code
-#     if response.status_code == 200:
-#         joke = response.json()['value']['joke']
-#     else:
-#         joke = 'No jokes'
-
-#     return joke
-
-# if __name__ == '__main__':
-#     print(get_joke())
-
 def get_joke():
     url = 'https://official-joke-api.appspot.com/random_joke'
     try:
@@ -42,4 +27,3 @@ def get_joke():
 
 if __name__ == '__main__':
     print(get_joke())
-
