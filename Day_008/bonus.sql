@@ -1,4 +1,4 @@
--- SQL scritp that creates a stored procedure AddNonus
+-- SQL script that creates a stored procedure AddNonus
 -- that adds a new correction for a student
 /* Requirement */
 -- Procedure AddBonus is taking 3 inputs: user_id, project_name, score
