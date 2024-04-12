@@ -8,7 +8,10 @@ Day_030 of:
 
 Today I handled a very famous interview exercise question.
 The N-Queens puzzle
+
+
 ![alt text](image.png)
+
 
 ## The Puzzle
 Given an N×N chessboard, the task is to place N queens on the board such that no two queens attack each other. Queens can attack each other if they share the same row, column, or diagonal. The objective is to find all possible configurations of queen placements on the board that satisfy these condition
